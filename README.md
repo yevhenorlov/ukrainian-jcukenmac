@@ -5,7 +5,9 @@ Based on [ukrainian-enhanced.vim](https://www.vim.org/scripts/script.php?script_
 
 ## Installation
 
-Copy `ukrainian-jcukenmac.vim` file to `$VIM/vimfiles/keymap`
+Copy `ukrainian-jcukenmac.vim` file to local directory (may differ depending on vim/neovim etc.)
+
+For neovim path, check this out: https://neovim.io/doc/user/usr_45.html#45.5
 
 In `.vimrc`, write
 
